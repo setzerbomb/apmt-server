@@ -18,7 +18,13 @@ This project was designed to run on ComputerCraft 1.7.5 at Minecraft 1.7.10 vers
 
 ### Installing
 
-Work in progress
+```
+pastebin get cUYTGbpb bbpack
+bbpack mount https://github.com/setzerbomb/apmt-server/tree/master install
+cp install\server server
+mv server\startup startup
+reboot
+```
 
 ## Contributing
 
